@@ -1,4 +1,4 @@
-## Face recognition tool using Tensorlow ML models, based on images stored into database-like folder. 
+## Face recognition tool using Tensorflow ML models, based on images stored into database-like folder. 
 ### Requirements
   * [Visual Studio Code](https://code.visualstudio.com/download)
   * [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
